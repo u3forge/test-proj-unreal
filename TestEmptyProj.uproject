@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "{B1DFF6D6-4D8C-A97C-FD48-CEB2C9711CF6}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestEmptyProj",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
 }
